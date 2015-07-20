@@ -1,0 +1,26 @@
+{
+  "name": "drakov-cluster",
+  "version": "1.0.0",
+  "description": "Manager a cluster of Drakov API servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yakovkhalinsky/drakov-cluster.git"
+  },
+  "keywords": [
+    "api",
+    "testing"
+  ],
+  "author": "Yakov Khalinsky <yakov@therocketsurgeon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yakovkhalinsky/drakov-cluster/issues"
+  },
+  "homepage": "https://github.com/yakovkhalinsky/drakov-cluster",
+  "dependencies": {
+    "drakov": "^0.1.9"
+  }
+}
