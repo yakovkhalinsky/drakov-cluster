@@ -1,10 +1,10 @@
 {
   "name": "drakov-cluster",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Manager a cluster of Drakov API servers",
   "main": "./index.js",
   "bin": {
-    "drakov": "drakov-cluster"
+    "drakov-cluster": "drakov-cluster"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
