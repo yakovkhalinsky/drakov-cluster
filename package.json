@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/yakovkhalinsky/drakov-cluster",
   "dependencies": {
-    "drakov": "^0.1.9"
+    "async": "^1.4.0",
+    "colors": "^1.1.2",
+    "drakov": "^0.1.11",
+    "glob": "^5.0.14",
+    "yargs": "^3.15.0"
   }
 }

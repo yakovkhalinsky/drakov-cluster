@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var drakovCluster = require('./index.js');
+
+drakovCluster.run(function() {
+    console.log('-- DRAKOV CLUSTER STARTED --');
+});
