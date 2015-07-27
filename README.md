@@ -1,5 +1,8 @@
 # drakov-cluster
 
+[![npm version](https://badge.fury.io/js/drakov-cluster.svg)](http://badge.fury.io/js/drakov-cluster)
+
+
 Create a cluster of Drakov API servers
 (https://www.npmjs.com/package/drakov)
 
